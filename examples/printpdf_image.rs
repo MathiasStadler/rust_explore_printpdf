@@ -1,3 +1,6 @@
+// cargo build --example printpdf_image --features="embedded_images"
+
+
 extern crate printpdf;
 
 use image_crate::codecs::bmp::BmpDecoder;

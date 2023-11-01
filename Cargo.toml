@@ -62,3 +62,7 @@ annotations = ["pdf-writer"]
 [[example]]
 name="printpdf_table"
 required-features = ["embedded_images"]
+
+[[example]]
+name = "printpdf_image"
+required-features = ["embedded_images"]
