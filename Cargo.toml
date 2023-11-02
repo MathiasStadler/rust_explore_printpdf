@@ -44,6 +44,7 @@ logging = ["log"]
 # enables image support with some basic formats
 embedded_images = ["image"]
 # enables extra image formats
+bmp = ["image/bmp", "embedded_images"]
 ico = ["image/ico", "embedded_images"]
 tga = ["image/tga", "embedded_images"]
 hdr = ["image/hdr", "embedded_images"]
